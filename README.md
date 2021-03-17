@@ -128,12 +128,19 @@ localbitcoins平台会有一个黄色的警告信息出来。说明卖家已经�
 ---------------------------------------
 
 频道的发展离不开大家的支持，如果你觉得我的视频让你受益，欢迎给我打些bitcoin 和Ethereum支持我们的频道。
+
 bitcoin address：1BpEDmkE85zKFbeb5RkSUhcv9br45Ybug5
+
 ETH address：0x000e84ad54c237e5128cfaeef25f77a1883b8ccc
+
 my email address: beijingcollege@protonmail.com
+
 会员费：
+
 10美金/Year = 可以观看专门为会员录制的视频
+
 50美金/Year = 可以收到我们官方客服人员的回复
+
 20美金/小时 = 可以收到我们工程师团队提供的技术支持和服务
 
 
